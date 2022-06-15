@@ -824,6 +824,7 @@ export default {
                 text-indent: 0.75rem;
                 background-color: #ffffff;
                 color:#fff;
+                margin: 0 !important;
             }
          .header_seek_img{
              position: absolute;
